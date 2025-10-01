@@ -1,0 +1,2 @@
+dir, file, temp,  <v>, STD, len v 
+2025.05.20_MT_simulation_1_15uM_10s_cooling,_0C,0,-2.3826,0.1193,4
